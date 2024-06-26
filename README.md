@@ -1,6 +1,6 @@
 # Image Classification of Nature Scenes
 
-This repository contains a Jupyter notebook for classifying images of nature scenes using various machine learning models. The project focuses on preprocessing image data, extracting features, training different models, and evaluating their performance.
+This repository contains a Jupyter notebook for classifying images of nature scenes using CNN model. The project focuses on preprocessing image data, training the model, and evaluating their performance.
 
 ## Project Overview
 
@@ -15,5 +15,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- Special thanks to the creators and contributors of the image dataset used in this project.
+- Special thanks to the creators and contributors of the image dataset used in this project : https://www.kaggle.com/datasets/puneet6060/intel-image-classification
 - Gratitude to the developers of the libraries and tools used in this project.
